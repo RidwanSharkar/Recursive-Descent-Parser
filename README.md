@@ -1,7 +1,7 @@
-# Recursive Descent Parser + 
+# Recursive Descent Parser
 
 ## Overview
-Compiler and Interpreter for the **tinyL** programming language, translating tinyL source code into intermediate RISC-like instructions (`tinyL.out`), executed by the interpreter. 
+Compiler and Interpreter for the **tinyL** programming language, translating tinyL source code into intermediate RISC-like instructions (`tinyL.out`) to be executed by the interpreter. 
 
 ## Features
 - **Compiler (`compile`)**
